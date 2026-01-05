@@ -1,0 +1,11 @@
+#!/bin/bash
+# Bird CLI wrapper - uses patched version if available, falls back to system bird
+# Patched version: 0.5.1 (04a8b488) with responsive_web_grok_annotations_enabled fix
+
+# Try patched version first (local development)
+if [ -f /tmp/bird-patched/bird ]; then
+  exec /tmp/bird-patched/bird "$@"
+else
+  # Fall back to system bird (e.g., in CI environment)
+  exec bird "$@"
+fi

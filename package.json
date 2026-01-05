@@ -1,0 +1,33 @@
+{
+  "name": "bird-intelligence-system",
+  "version": "1.0.0",
+  "description": "Automated Twitter competitive intelligence using Bird CLI and AI",
+  "main": "scripts/social/bird-competitive-intel.js",
+  "scripts": {
+    "intelligence": "node scripts/social/bird-competitive-intel.js",
+    "test": "bird --version"
+  },
+  "keywords": [
+    "twitter",
+    "competitive-intelligence",
+    "automation",
+    "bird-cli",
+    "ai",
+    "analytics"
+  ],
+  "author": "AI.withJai",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jairodriguez/bird-intelligence-system.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jairodriguez/bird-intelligence-system/issues"
+  },
+  "homepage": "https://github.com/jairodriguez/bird-intelligence-system#readme"
+}

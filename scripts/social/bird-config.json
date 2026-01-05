@@ -1,0 +1,111 @@
+{
+  "ai.withjai": {
+    "enabled": true,
+    "description": "AI automation for creators - Claude Code, workflow optimization",
+    "keywords": [
+      "AI automation",
+      "Claude Code",
+      "creator tools",
+      "workflow optimization",
+      "AI agents",
+      "content automation",
+      "AI personalization",
+      "tool stack"
+    ],
+    "competitors": [
+      "gregisenberg",
+      "lenny",
+      "dabit3",
+      "swyx",
+      "rauchg"
+    ],
+    "influencers": [
+      "sama",
+      "gregisenberg",
+      "dabit3",
+      "jackbutcher",
+      "naval"
+    ],
+    "monitoring": {
+      "mentions": true,
+      "search": true,
+      "bookmarks": true,
+      "frequency": "daily",
+      "timezone": "America/Mexico_City"
+    },
+    "analytics": {
+      "trackEngagement": true,
+      "trackCompetitors": true,
+      "trackTrends": true
+    }
+  },
+  "madamgroovy.com": {
+    "enabled": false,
+    "description": "Luxury glamping and love readings",
+    "keywords": [
+      "luxury glamping",
+      "love readings",
+      "tarot",
+      "travel experiences"
+    ],
+    "competitors": [],
+    "influencers": [],
+    "monitoring": {
+      "mentions": false,
+      "search": false,
+      "bookmarks": false,
+      "frequency": "weekly"
+    }
+  },
+  "enchantents": {
+    "enabled": false,
+    "description": "Luxury hospitality experiences",
+    "keywords": [
+      "luxury hospitality",
+      "boutique hotels",
+      "travel experiences"
+    ],
+    "competitors": [],
+    "influencers": [],
+    "monitoring": {
+      "mentions": false,
+      "search": false,
+      "bookmarks": false,
+      "frequency": "weekly"
+    }
+  },
+  "voxcoach.online": {
+    "enabled": false,
+    "description": "Coaching and voice optimization",
+    "keywords": [
+      "coaching",
+      "voice training",
+      "personal development"
+    ],
+    "competitors": [],
+    "influencers": [],
+    "monitoring": {
+      "mentions": false,
+      "search": false,
+      "bookmarks": false,
+      "frequency": "weekly"
+    }
+  },
+  "health.withjai": {
+    "enabled": false,
+    "description": "Health and wellness optimization",
+    "keywords": [
+      "health",
+      "wellness",
+      "optimization"
+    ],
+    "competitors": [],
+    "influencers": [],
+    "monitoring": {
+      "mentions": false,
+      "search": false,
+      "bookmarks": false,
+      "frequency": "weekly"
+    }
+  }
+}

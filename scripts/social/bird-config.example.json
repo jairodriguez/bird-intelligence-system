@@ -1,0 +1,32 @@
+{
+  "your-brand-name": {
+    "enabled": true,
+    "keywords": [
+      "AI automation",
+      "Claude Code",
+      "creator tools",
+      "newsletter growth",
+      "content automation"
+    ],
+    "competitors": [
+      "competitor1",
+      "competitor2",
+      "competitor3",
+      "competitor4",
+      "competitor5"
+    ],
+    "influencers": [
+      "sama",
+      "gregisenberg",
+      "naval",
+      "jackbutcher",
+      "swyx"
+    ],
+    "monitoring": {
+      "mentions": true,
+      "search": true,
+      "bookmarks": true,
+      "frequency": "daily"
+    }
+  }
+}
